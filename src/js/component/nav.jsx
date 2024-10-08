@@ -2,7 +2,7 @@ import React from "react";
 
 const Nav = () => {
     return (
-        <nav className="navbar navbar-dark navbar-expand-lg bg-body-tertiary bg-dark border-bottom border-body">
+        <nav className="navbar navbar-darkno navbar-expand-lg bg-body-tertiary bg-dark border-bottom border-body">
             <div className="container-fluid">
                 <a className="navbar-brand text-white" href="#">Start Boostrap</a>
                 <button className="navbar-toggler custom-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
